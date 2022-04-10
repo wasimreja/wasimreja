@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimreja&label=Profile%20views&color=red&style=flat" alt="wasimreja" /> </p>
 
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350">
+
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology
 - 🌱 I’m currently learning Backend Development
 - 🤝 I’m looking to collaborate with other developers and build cool projects
