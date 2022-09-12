@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimreja&label=Profile%20views&color=2b9348&style=for-the-badge" alt="wasimreja" /> </p>
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350">
+<img align="right" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="250">
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 🤝🏼 I’m looking to collaborate with other developers and build cool stuffs
-
-- 🎯 2022 Goals: Contribute more to real-world projects and actively engage with the open source community
+- 🤝🏼 I’m looking to collaborate on real-world projects
 
 - 📫 How to reach me **wr2435@it.jgec.ac.in**
 
