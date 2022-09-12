@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 🤝 I’m looking to collaborate with other developers and build cool stuffs
+- 🤝🏼 I’m looking to collaborate with other developers and build cool stuffs
 
-- 🎯 2022 Goals: Contribute more to real-world projects and actively engage with the Open Source community
+- 🎯 2022 Goals: Contribute more to real-world projects and actively engage with the open source community
 
 - 📫 How to reach me **wr2435@it.jgec.ac.in**
 
@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=entdi21kt7c927qt3gsi0ogqk&count=3" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=wasimreja&theme=monokai" />
 </p>
