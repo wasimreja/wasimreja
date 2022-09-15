@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimreja&label=Profile%20views&color=2b9348&style=for-the-badge" alt="wasimreja" /> </p>
 
-<img align="right" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="250">
+<p align="center"> <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" /> </p>
 
 - 👨🏻‍🎓 I’m currently pursuing B.Tech in Information Technology
 
